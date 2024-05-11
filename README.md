@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Isaque-Manoel/Solutions-frontendmentor/tree/main/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://isaque-manoel.github.io/Solutions-frontendmentor/)
+- Solution URL: [Add solution URL here](https://github.com/Isaque-Manoel/Desafio-2)
+- Live Site URL: [Add live site URL here](https://isaque-manoel.github.io/Desafio-2/)
 
 ### Built with
 
