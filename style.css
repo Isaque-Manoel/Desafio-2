@@ -82,11 +82,11 @@ main {
     padding-top: 5px;
 }
 
-.conteudo buttom {
+.conteudo a {
     background-color: var(--grey);
     width: 330px;
     height: 50px;
-    border: 1px solid --offblack;
+    border: 1px solid var(--offblack);
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -101,13 +101,11 @@ main {
     font-weight: 700;
 }
 
-.conteudo buttom:hover a {
+.conteudo a:hover {
     color: var(--darkgrey);
+    background-color: var(--green)
 }
 
-.conteudo buttom:hover {
-    background-color: var(--green);
-}
 
 
 
